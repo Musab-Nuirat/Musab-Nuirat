@@ -1,12 +1,8 @@
 # Hi, I'm Musab Nuriat 👋
 
-### A Developer based in Palestine 🇵🇸
+### A Product-Minded Developer & Community-Driven Builder, based in Palestine 🇵🇸
 
-Building modern, responsive web applications with ReactJS and NextJS, focused on creating intuitive user experiences. Committed to mentoring aspiring developers in code, career growth, and critical thinking. Exploring the intersections of Psychology, Tech, AI & Marketing.
-
-## 🚀 What I'm currently working on:
-* Actively contributing to the development and optimization of user-facing features at Palestine Islamic Bank, utilizing ReactJS and NextJS.
-* Continuously expanding my knowledge of the latest frontend development trends and tools.
+I am a computer engineer and product-minded developer passionate about building digital products that truly matter. My work focuses on empowering the next generation of Arab developers and learners by creating tools, platforms, and experiences that are practical, ethical, and deeply human.
 
 ## 🛠️ Tech Stack:
 * **Frontend:** ReactJS, NextJS, JavaScript (ES6+), TypeScript, HTML5, CSS3, Responsive Design, Tailwind CSS, Bluma CSS, Bootstrap
@@ -26,9 +22,11 @@ Building modern, responsive web applications with ReactJS and NextJS, focused on
 ## 🌟 Featured Projects:
 * **Palestine Roadwatch:** A web application providing real-time checkpoint status updates. [[Live Demo](https://palestineroadwatch.vercel.app)]
 * **Mosaa'ed:** A mobile application designed to support university students. [[GitHub Repo](https://github.com/Musab-Nuirat/Mosaeed-Senior-Project)]
+* **Codeforces Simplifier Chrome Extension:** AI-powered extension that simplifies competitive programming problems using Gemini AI, making them more accessible for all. [[GitHub Repo](https://github.com/Musab-Nuirat/codeforces-simplifer))
 
-## ⚡️ Quick facts about me:
-* I hold a BA in Computer Engineering from Arab American University (AAUP).
-* I'm eager to learn and collaborate on exciting projects.
+## ⚡️ Qoute:
+> **“Technology is most powerful when it empowers the people who need it most.”**
 
-Thank you for visiting my profile! Feel free to connect with me.
+Thank you for visiting my profile!
+
+Feel free to connect with me.
